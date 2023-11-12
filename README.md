@@ -36,7 +36,5 @@ Adoro enfrentar problemas complexos com tecnologia. Desde desenvolver backends a
   
 - [Email](mailto:desagoulartfilipe@gmail.com)
   ![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/seu_perfil_no_linkedin)
-- [Medium](https://medium.com/@seu_nome_de_usuario)
 
 Sinta-se à vontade para me contatar! 😊
